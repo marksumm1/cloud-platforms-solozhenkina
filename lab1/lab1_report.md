@@ -1,7 +1,7 @@
 # Лабораторная работа № 1. Обзор Google Cloud и исследование основных сервисов
 
 **University:** [ИТМО](https://itmo.ru/ru/)  
-**Faculty:** [УВБ]  
+**Faculty:** [ФТМИ]  
 **Course:** [Облачные платформы как основа технологического предпринимательства](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)  
 **Year:** 2026/2027  
 **Group:** U4225  
