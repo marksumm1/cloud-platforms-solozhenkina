@@ -1,14 +1,14 @@
 # Лабораторная работа № 1. Обзор Google Cloud и исследование основных сервисов
 
-**University:** [ITMO University](https://itmo.ru/ru/)  
-**Faculty:** [FICT](https://fict.itmo.ru/)  
+**University:** [ИТМО](https://itmo.ru/ru/)  
+**Faculty:** [УВБ]  
 **Course:** [Облачные платформы как основа технологического предпринимательства](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)  
 **Year:** 2026/2027  
 **Group:** U4225  
-**Author:** Solozhenkina Elizaveta  
+**Author:** Соложенкина Елизавета  
 **Lab:** Lab1  
 **Date of create:** 25.10.2026  
-**Date of finished:** — (указывается после защиты)
+**Date of finished:** 
 
 ## 1. Цель работы
 
