@@ -11,4 +11,3 @@
 
 - 🏗 [Архитектурные схемы в draw.io](lab4/diagrams/ai_smm_architecture.drawio)
 - 📊 [Экономическая модель в Excel](lab4/economic_model.xlsx)
-- 🎓 [Вопросы и ответы для защиты](lab4/ВОПРОСЫ_К_ЗАЩИТЕ.md)
